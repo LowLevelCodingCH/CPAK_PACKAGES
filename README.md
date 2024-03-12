@@ -8,3 +8,5 @@ When you upload a Package to me and i add it, this is what will happen:
 Your file will be compressed into the .zip format (maybe)
 
 2: upload in the PKG/<name> directory
+
+everything on acc: cpak_manager
